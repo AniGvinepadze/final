@@ -1,0 +1,26 @@
+#main-btn{
+    width: 200px;
+    height: 200px;
+    background-color:gray;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.open{
+    width: 100px;
+    height: 20px;
+
+}
+.close{
+    width: 100px;
+    height: 20px;
+
+}
+div{
+    background-color: brown;
+    width: 200px;
+    height: 100px;
+    display: none;
+}
